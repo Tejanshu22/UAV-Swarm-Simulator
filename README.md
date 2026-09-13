@@ -1,6 +1,6 @@
 # Simulator Testbed for UAV Swarm Path Planning and Control
 
-Project assigned as part of the internal project evaluations for the **Foundations of Robotics** course, under the guidance of Kushagra Srivastava.
+Project assigned as part of the internal project evaluations for the **Foundations of Robotics** course, under the guidance of Prof Keshav Ram Kaza and TA Kushagra Srivastava.
 
 ---
 
