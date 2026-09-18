@@ -24,6 +24,7 @@ The objective of this project is to develop a lightweight and scalable simulatio
 | **Shraddha** | IIT2023114 | *Pending / To be updated* |
 | **Divyansh** | IIT2023111 | *Pending / To be updated* |
 | **Kinshuk** | IIT2023079 | [Kinshukk098](https://github.com/Kinshukk098) |
+| **Amit Bansal** | IIT2022034 | *Pending / To be updated* |
 | **Tejanshu** | MRM2025014 | [Tejanshu22](https://github.com/Tejanshu22) |
 
 ---
